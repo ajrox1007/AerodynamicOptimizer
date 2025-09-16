@@ -1,0 +1,31 @@
+{
+  "model": {
+    "projectId": 1,
+    "name": "tu134",
+    "stlPath": "/home/runner/workspace/uploads/1747507548535-311040622.stl",
+    "vertexCount": 112170,
+    "faceCount": 37390,
+    "isOptimized": false,
+    "originalModelId": null,
+    "id": 2
+  },
+  "settings": {
+    "projectId": 1,
+    "fluidMedium": "Air (sea level, 15°C)",
+    "flowVelocity": 120,
+    "reynoldsNumber": 500000,
+    "meshDensity": "medium",
+    "advancedSettings": {},
+    "id": 1
+  },
+  "options": {
+    "projectId": 1,
+    "dragCoefficient": true,
+    "liftCoefficient": true,
+    "pressureDistribution": true,
+    "vorticityAnalysis": false,
+    "surfaceStreamlines": true,
+    "id": 1
+  },
+  "timestamp": "2025-05-17T18:46:28.307Z"
+}
