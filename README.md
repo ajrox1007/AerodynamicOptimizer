@@ -1,8 +1,9 @@
 # Aerodynamic Optimizer
 
-A sophisticated web application for 3D aerodynamic analysis and optimization using CFD (Computational Fluid Dynamics) simulations powered by AI recommendations.
+A web application for 3D aerodynamic analysis and optimization using CFD (Computational Fluid Dynamics) simulations powered by AI recommendations.
 
-![Aerodynamic Optimizer](./attached_assets/Screenshot%202025-05-18%20at%2011.35.42%20AM.png)
+![Uploading Screenshot 2025-09-16 at 11.08.44 AM.png…]()
+
 
 ## 🚀 Features
 
